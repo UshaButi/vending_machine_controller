@@ -1,4 +1,4 @@
-Vending Machine Controller - Verilog Project
+# Vending Machine Controller - Verilog Project
 
 # Objective
 A simple vending machine controller implemented in Verilog HDL using a state machine approach.
